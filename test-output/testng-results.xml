@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicking on the Register Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Gender male Radio Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Firstname into the Firstname Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Lasttname into the Lastname Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Email into the Email Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Password into the Password Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the password in Confirm Password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Register Button]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-16T16:07:05 IST" name="Default suite" finished-at="2022-11-16T16:07:32 IST" duration-ms="26241">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T16:07:05 IST" name="Default test" finished-at="2022-11-16T16:07:32 IST" duration-ms="26241">
+      <class name="Tests.RegisterTest">
+        <test-method is-config="true" signature="LaunchingBrowser()[pri:0, instance:Tests.RegisterTest@201a4587]" started-at="2022-11-16T16:07:05 IST" name="LaunchingBrowser" finished-at="2022-11-16T16:07:27 IST" duration-ms="21548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingBrowser -->
+        <test-method signature="register()[pri:0, instance:Tests.RegisterTest@201a4587]" started-at="2022-11-16T16:07:27 IST" name="register" finished-at="2022-11-16T16:07:31 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on the Register Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Gender male Radio Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Firstname into the Firstname Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Lasttname into the Lastname Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Email into the Email Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Password into the Password Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the password in Confirm Password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Register Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:Tests.RegisterTest@201a4587]" started-at="2022-11-16T16:07:31 IST" name="ClosingBrowser" finished-at="2022-11-16T16:07:32 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- Tests.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
