@@ -1,17 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
     <line>
+      <![CDATA[clicking on the Login Link]]>
+    </line>
+    <line>
       <![CDATA[Clicking on the Register Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Login Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Login Link]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Email in the Email Textfeild]]>
     </line>
     <line>
       <![CDATA[Clicking on the Gender male Radio Button]]>
     </line>
     <line>
+      <![CDATA[Entering the Email in the Email Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Password into the Password Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Password into the Password Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Email in the Email Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Remember me Checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Remember me Checkbox]]>
+    </line>
+    <line>
       <![CDATA[Entering the Firstname into the Firstname Textfeild]]>
     </line>
     <line>
+      <![CDATA[Entering the Password into the Password Textfeild]]>
+    </line>
+    <line>
       <![CDATA[Entering the Lasttname into the Lastname Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Remember me Checkbox]]>
     </line>
     <line>
       <![CDATA[Entering the Email into the Email Textfeild]]>
@@ -23,19 +59,127 @@
       <![CDATA[Entering the password in Confirm Password]]>
     </line>
     <line>
+      <![CDATA[Clicking on the Login Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Login Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Login Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Giftcards Menu]]>
+    </line>
+    <line>
       <![CDATA[Clicking on the Register Button]]>
     </line>
+    <line>
+      <![CDATA[Clicking on the Giftcards Menu]]>
+    </line>
+    <line>
+      <![CDATA[selecting the option]]>
+    </line>
+    <line>
+      <![CDATA[selecting the option]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the option]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the option]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the Option]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the Option]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the $50 Virtual Gift card Product Link]]>
+    </line>
+    <line>
+      <![CDATA[Entering the data into the Recipents Name Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the ADD to cart Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Crossmark on message product is added to the cart]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Shopping cart Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the I Agree Checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the $50 Virtual Gift card Product Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Checkout Button]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the Option]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Data into the Firstname Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Data into the Lastname Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Data into the Email Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[selecting one option]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Data into the City Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Data into the Address1 Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Data into the Zip/PostalCode]]>
+    </line>
+    <line>
+      <![CDATA[Entering the Data into the Phone Number Textfeild]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Instore Pickup]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Cash on Delivery RadioButton]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Confirm Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Continue Button]]>
+    </line>
   </reporter-output>
-  <suite started-at="2022-11-16T16:07:05 IST" name="Default suite" finished-at="2022-11-16T16:07:32 IST" duration-ms="26241">
+  <suite started-at="2022-11-24T12:00:30 IST" name="Suite" finished-at="2022-11-24T12:01:08 IST" duration-ms="38325">
     <groups>
     </groups>
-    <test started-at="2022-11-16T16:07:05 IST" name="Default test" finished-at="2022-11-16T16:07:32 IST" duration-ms="26241">
-      <class name="Tests.RegisterTest">
-        <test-method is-config="true" signature="LaunchingBrowser()[pri:0, instance:Tests.RegisterTest@201a4587]" started-at="2022-11-16T16:07:05 IST" name="LaunchingBrowser" finished-at="2022-11-16T16:07:27 IST" duration-ms="21548" status="PASS">
+    <test started-at="2022-11-24T12:00:30 IST" name="Test" finished-at="2022-11-24T12:01:08 IST" duration-ms="38325">
+      <class name="Tests.Registertest">
+        <test-method is-config="true" signature="LaunchingBrowser()[pri:0, instance:Tests.Registertest@7bba5817]" started-at="2022-11-24T12:00:30 IST" name="LaunchingBrowser" finished-at="2022-11-24T12:00:45 IST" duration-ms="14805" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchingBrowser -->
-        <test-method signature="register()[pri:0, instance:Tests.RegisterTest@201a4587]" started-at="2022-11-16T16:07:27 IST" name="register" finished-at="2022-11-16T16:07:31 IST" duration-ms="4183" status="PASS">
+        <test-method signature="register()[pri:0, instance:Tests.Registertest@7bba5817]" started-at="2022-11-24T12:00:45 IST" name="register" finished-at="2022-11-24T12:00:51 IST" duration-ms="6144" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Clicking on the Register Link]]>
@@ -63,11 +207,197 @@
             </line>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:Tests.RegisterTest@201a4587]" started-at="2022-11-16T16:07:31 IST" name="ClosingBrowser" finished-at="2022-11-16T16:07:32 IST" duration-ms="462" status="PASS">
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:Tests.Registertest@7bba5817]" started-at="2022-11-24T12:00:51 IST" name="ClosingBrowser" finished-at="2022-11-24T12:00:54 IST" duration-ms="3083" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClosingBrowser -->
-      </class> <!-- Tests.RegisterTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- Tests.Registertest -->
+      <class name="Tests.Logintest">
+        <test-method is-config="true" signature="LaunchingBrowser()[pri:0, instance:Tests.Logintest@5b247367]" started-at="2022-11-24T12:00:30 IST" name="LaunchingBrowser" finished-at="2022-11-24T12:00:45 IST" duration-ms="15414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingBrowser -->
+        <test-method signature="login()[pri:0, instance:Tests.Logintest@5b247367]" started-at="2022-11-24T12:00:45 IST" name="login" finished-at="2022-11-24T12:00:51 IST" duration-ms="5396" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on the Login Link]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Email in the Email Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Password into the Password Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Remember me Checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Login Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:Tests.Logintest@5b247367]" started-at="2022-11-24T12:00:51 IST" name="ClosingBrowser" finished-at="2022-11-24T12:00:54 IST" duration-ms="2962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- Tests.Logintest -->
+      <class name="Tests.Producttest">
+        <test-method is-config="true" signature="LaunchingBrowser()[pri:0, instance:Tests.Producttest@1750fbeb]" started-at="2022-11-24T12:00:30 IST" name="LaunchingBrowser" finished-at="2022-11-24T12:00:44 IST" duration-ms="14608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingBrowser -->
+        <test-method signature="Giftcardslink()[pri:1, instance:Tests.Producttest@1750fbeb]" started-at="2022-11-24T12:00:45 IST" name="Giftcardslink" finished-at="2022-11-24T12:01:08 IST" duration-ms="23224" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on the Login Link]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Email in the Email Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Password into the Password Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Remember me Checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Login Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Giftcards Menu]]>
+            </line>
+            <line>
+              <![CDATA[selecting the option]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the option]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the Option]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the $50 Virtual Gift card Product Link]]>
+            </line>
+            <line>
+              <![CDATA[Entering the data into the Recipents Name Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the ADD to cart Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Crossmark on message product is added to the cart]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Shopping cart Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the I Agree Checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Checkout Button]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the Option]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Data into the Firstname Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Data into the Lastname Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Data into the Email Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[selecting one option]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Data into the City Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Data into the Address1 Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Data into the Zip/PostalCode]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Data into the Phone Number Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the continue Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Instore Pickup]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Continue Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Cash on Delivery RadioButton]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Continue Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Continue Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Confirm Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Continue Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Giftcardslink -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:Tests.Producttest@1750fbeb]" started-at="2022-11-24T12:01:08 IST" name="ClosingBrowser" finished-at="2022-11-24T12:01:08 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- Tests.Producttest -->
+      <class name="Tests.Giftcardstest">
+        <test-method is-config="true" signature="LaunchingBrowser()[pri:0, instance:Tests.Giftcardstest@7ce69770]" started-at="2022-11-24T12:00:30 IST" name="LaunchingBrowser" finished-at="2022-11-24T12:00:45 IST" duration-ms="14934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchingBrowser -->
+        <test-method signature="Giftcards()[pri:0, instance:Tests.Giftcardstest@7ce69770]" started-at="2022-11-24T12:00:45 IST" name="Giftcards" finished-at="2022-11-24T12:01:00 IST" duration-ms="15394" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on the Login Link]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Email in the Email Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Entering the Password into the Password Textfeild]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Remember me Checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Login Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Giftcards Menu]]>
+            </line>
+            <line>
+              <![CDATA[selecting the option]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the option]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the Option]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the $50 Virtual Gift card Product Link]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Giftcards -->
+        <test-method is-config="true" signature="ClosingBrowser()[pri:0, instance:Tests.Giftcardstest@7ce69770]" started-at="2022-11-24T12:01:00 IST" name="ClosingBrowser" finished-at="2022-11-24T12:01:01 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosingBrowser -->
+      </class> <!-- Tests.Giftcardstest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

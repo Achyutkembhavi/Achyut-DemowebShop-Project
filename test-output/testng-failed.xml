@@ -3,13 +3,19 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Tests.RegisterTest">
+      <class name="Tests.Producttest">
         <methods>
+          <include name="ProductLink"/>
+          <include name="Shoppingcart"/>
           <include name="ClosingBrowser"/>
+          <include name="ConfirmOrder"/>
+          <include name="Checkout_BillingAddress"/>
           <include name="LaunchingBrowser"/>
-          <include name="register"/>
+          <include name="PaymentMethod"/>
+          <include name="shippingAddress"/>
+          <include name="PaymentInformation"/>
         </methods>
-      </class> <!-- Tests.RegisterTest -->
+      </class> <!-- Tests.Producttest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,11 @@
+POMpages\CheckoutShippingAddressPage.class
+POMpages\CheckoutPaymentInformation.class
+POMpages\GiftcardsPage.class
+POMpages\CheckoutPaymentMethodPage.class
+POMpages\ProductPage.class
+POMpages\ShoppingCartPage.class
+GenericLib\BaseTest.class
+POMpages\CheckoutBillingAddressPage.class
+POMpages\RegisterPage.class
+POMpages\LoginPage.class
+POMpages\ThankyouPage.class

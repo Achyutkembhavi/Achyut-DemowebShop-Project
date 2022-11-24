@@ -7,8 +7,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -17,7 +19,7 @@ public class BaseTest {
 	
 	 public WebDriver driver;
 	
-	@BeforeClass(alwaysRun = true)
+	@BeforeMethod(alwaysRun = true)
 	public void LaunchingBrowser() throws InterruptedException {
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver();
@@ -30,7 +32,7 @@ public class BaseTest {
 		
 	}
 
-	@AfterClass(alwaysRun=true)
+	@AfterMethod(alwaysRun=true)
 	public void ClosingBrowser() {
 		driver.quit();
 	}
